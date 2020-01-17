@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='LeetcodeProject'
+//include ':client'
+//rootProject.name='LeetcodeClient'
